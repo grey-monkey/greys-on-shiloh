@@ -6,7 +6,7 @@ An interactive planting map and field record for a one-acre food forest.
 
 [greysonshiloh.com](https://greysonshiloh.com)
 
-`index.html` is the complete standalone website (Build 124). Open it in a browser to use the map locally. Plant records, reference photographs, and map imagery are embedded; no installation or build step is required.
+`index.html` is the complete standalone website (Build 128). Open it in a browser to use the map locally. Plant records, reference photographs, and map imagery are embedded; no installation or build step is required.
 
 The map supports individual plant selection, grouped planting records, seasonal browsing, and reference information. In edit mode, export changes to keep a saved copy.
 
